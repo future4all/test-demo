@@ -1,0 +1,5 @@
+Today: Tuesday
+
+Lesson: Git
+
+Weather: Warm
